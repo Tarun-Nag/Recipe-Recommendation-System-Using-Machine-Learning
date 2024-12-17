@@ -1,0 +1,501 @@
+recipe_id,recipe_name,ingredients_list,cooking_procedure
+1,Hyderabadi Biryani,"rice, chicken, yogurt, spices, saffron",Cook marinated chicken with rice and saffron. Layer and steam cook.
+2,Idli,"rice, urad dal, fermentation starter","Grind rice and dal, ferment the batter, and steam in idli molds."
+3,Dosa,"rice, urad dal, fenugreek, water","Grind rice and dal into batter, ferment, and spread thin on a griddle."
+4,Sambar,"toor dal, tamarind, vegetables, mustard seeds","Boil dal and vegetables, add tamarind and spices, simmer."
+5,Vada,"urad dal, onion, curry leaves, mustard seeds","Grind dal into batter, shape into donuts, fry in hot oil."
+6,Medu Vada,"urad dal, onion, curry leaves, ginger","Prepare batter, shape into rings, and deep-fry."
+7,Upma,"rava (semolina), mustard seeds, curry leaves, veggies",Prepare rava with veggies and seasonings in a tempering.
+8,Chutney,"coconut, green chili, mustard seeds, tamarind","Grind coconut with spices, temper with mustard seeds."
+9,Curd Rice,"rice, yogurt, curry leaves, mustard seeds","Mix rice with yogurt, temper with mustard seeds and curry leaves."
+10,Vegetable Pulao,"rice, mixed vegetables, spices, ghee",Cook rice and vegetables together in ghee with spices.
+11,Thoran,"cabbage, coconut, mustard seeds, curry leaves","Stir-fry cabbage with mustard seeds, curry leaves, and coconut."
+12,Avial,"mixed vegetables, coconut, yogurt, curry leaves",Cook vegetables with coconut paste and finish with yogurt.
+13,Poriyal,"vegetables, coconut, mustard seeds, curry leaves",Stir-fry vegetables with a tempering of mustard seeds and curry leaves.
+14,Nilgiri Mutton Curry,"mutton, yogurt, mint, coriander, spices",Cook mutton in a gravy with yogurt and fresh herbs.
+15,Tamarind Rice (Puliyodarai),"rice, tamarind, peanuts, mustard seeds","Prepare rice with tamarind paste, temper with mustard seeds and peanuts."
+16,Pesarattu,"green gram, ginger, chilies","Grind green gram into batter, cook like dosa with ginger and chilies."
+17,Adai,"rice, urad dal, chana dal, spices","Grind rice and dals into batter, make thick pancakes on a griddle."
+18,Sundal,"chickpeas, coconut, mustard seeds, curry leaves","Boil chickpeas, temper with mustard seeds, curry leaves, and coconut."
+19,Kootu,"vegetables, lentils, coconut, mustard seeds","Boil lentils with vegetables, temper with mustard seeds and coconut."
+20,Rasam,"tamarind, tomatoes, pepper, mustard seeds","Boil tamarind, tomatoes, and spices, temper with mustard seeds."
+21,Chana Masala,"chickpeas, tomatoes, onions, spices","Simmer chickpeas with tomatoes, onions, and spices."
+22,Chili Bajji,"green chilies, chickpea flour, rice flour, spices","Stuff chilies with spices, dip in batter, and deep fry."
+23,Vegetable Kurma,"vegetables, coconut, yogurt, spices","Prepare curry with vegetables, coconut paste, and yogurt."
+24,Keerai Masiyal,"spinach, tamarind, mustard seeds","Boil spinach and tamarind, temper with mustard seeds."
+25,Cabbage Poriyal,"cabbage, coconut, mustard seeds, curry leaves",Stir-fry cabbage with coconut and spices.
+26,Chana Sundal,"chickpeas, coconut, mustard seeds, curry leaves",Boil chickpeas and temper with mustard seeds and coconut.
+27,Avial Puttu,"mixed vegetables, coconut, steamed rice flour",Cook vegetables in coconut paste and serve with puttu.
+28,Paruppu Kootu,"toor dal, vegetables, coconut, mustard seeds","Boil dal with vegetables, temper with mustard seeds and coconut."
+29,Pongal,"rice, moong dal, black pepper, ginger","Cook rice and dal with black pepper and ginger, season with ghee."
+30,Chili Chicken,"chicken, green chilies, soy sauce, vinegar","Stir-fry chicken with chili sauce, soy sauce, and vinegar."
+31,Dhokla,"semolina, yogurt, ginger, mustard seeds","Steam semolina batter, temper with mustard seeds and curry leaves."
+32,Spicy Sambar Vada,"urad dal vada, sambar, curry leaves",Serve deep-fried vada with spicy sambar.
+33,Thayir Sadam,"rice, yogurt, mustard seeds, curry leaves","Mix rice with yogurt, season with mustard and curry leaves."
+34,Masala Dosa,"dosa, potato filling, mustard seeds, curry leaves","Fill dosa with spiced potato mixture, serve hot."
+35,Chow Chow Bath,"upma, kesari, vegetables, ghee",Serve upma with a sweet kesari.
+36,Kozhukattai,"rice flour, coconut, jaggery, sesame seeds","Prepare dough, stuff with coconut-jaggery mixture, steam."
+37,Annam Paruppu Sadam,"rice, toor dal, ghee, garlic",Prepare rice with dal and temper with garlic in ghee.
+38,Mysore Pak,"gram flour, ghee, sugar",Prepare a dense sweet from gram flour and ghee.
+39,Chutney Powder,"dry coconut, red chilies, tamarind, salt",Grind roasted ingredients into a powder.
+40,Chickpea Sundal,"chickpeas, coconut, mustard seeds, curry leaves",Boil chickpeas and temper with coconut and mustard seeds.
+41,Raw Mango Rice,"rice, raw mango, peanuts, mustard seeds",Grate raw mango and mix with cooked rice and temper.
+42,Vegetable Biryani,"rice, mixed vegetables, spices, saffron",Cook rice with spiced vegetables and saffron.
+43,Shira (Rava Kesari),"rava, sugar, ghee, cashews","Prepare semolina dessert with sugar, ghee, and cashews."
+44,Muttai Kari,"eggs, onion, tomatoes, spices","Boil eggs, prepare curry with onions, tomatoes, and spices."
+45,Paneer Butter Masala,"paneer, butter, tomatoes, cream","Cook paneer in a rich, creamy tomato gravy."
+46,Beetroot Poriyal,"beetroot, coconut, mustard seeds, curry leaves",Stir-fry grated beetroot with mustard seeds and coconut.
+47,Chappathi,"wheat flour, water, salt, oil","Prepare dough, roll into thin discs, and cook on a griddle."
+48,Vegetable Stew,"mixed vegetables, coconut milk, pepper",Simmer vegetables in coconut milk and season with pepper.
+49,Saravana Bhavan’s Sambar,"toor dal, tamarind, vegetables, mustard seeds",Simmer dal and vegetables in tamarind gravy with spices.
+50,Tandoori Chicken,"chicken, yogurt, tandoori masala, spices","Marinate chicken in yogurt and spices, cook in a tandoor."
+51,Quinoa Pongal,"quinoa, moong dal, black pepper, ginger","Cook quinoa with dal, black pepper, and ginger, season with ghee."
+52,Ragi Mudde,"ragi flour, water, salt",Cook ragi flour into a dough-like consistency and serve with sambar.
+53,Sundal Salad,"chickpeas, cucumber, tomatoes, mustard seeds","Boil chickpeas, chop veggies, and season with mustard seeds."
+54,Chana Dhal Sambar,"chana dal, tamarind, vegetables, mustard seeds","Simmer chana dal with vegetables, add tamarind, and temper with mustard seeds."
+55,Chappathi Korma,"chappathi, mixed vegetables, coconut gravy",Serve chappathi with a creamy coconut-based vegetable curry.
+56,Chili Paneer,"paneer, green chilies, soy sauce, vinegar","Fry paneer and stir-fry with soy sauce, vinegar, and green chilies."
+57,Chana Dhal Vada,"chana dal, curry leaves, onion","Shape soaked chana dal into patties, deep fry."
+58,Coconut Rice,"rice, coconut, mustard seeds, curry leaves",Prepare rice with grated coconut and temper with mustard seeds.
+59,Kadala Curry,"chickpeas, coconut, tamarind, spices",Simmer chickpeas in coconut gravy with tamarind and spices.
+60,Chidambaram Puli Kuzhambu,"tamarind, vegetables, mustard seeds, curry leaves",Prepare tamarind gravy with vegetables and temper with mustard seeds.
+61,Kuzhi Paniyaram,"rice flour, urad dal, coconut, mustard seeds","Prepare batter, fry in paniyaram pan to form round fritters."
+62,Sattumudu,"millet flour, jaggery, coconut","Prepare a thick pudding with millet flour, jaggery, and coconut."
+63,Mango Lassi,"mango, yogurt, sugar, ice","Creamy mango yogurt drink, blended with ice."
+64,Kadambam,"rice, moong dal, vegetables, ghee","Prepare a dish with rice, dal, and mixed vegetables, and ghee."
+65,Chapati and Kurma,"chapati, mixed vegetables, coconut paste",Cook vegetables in coconut paste and serve with chapati.
+66,Keerai Molagootal,"greens, coconut, tamarind, mustard seeds","Boil greens, mix with coconut paste, and season with tamarind."
+67,Chana Masala Pulao,"rice, chickpeas, spices, onions",Cook rice with chickpeas and spices for a flavorful pulao.
+68,Tamarind Rasam,"tamarind, tomatoes, mustard seeds, curry leaves",Prepare a tangy rasam with tamarind and temper with mustard seeds.
+69,Paratha,"whole wheat flour, water, oil","Make dough, roll out, and cook on a griddle with oil."
+70,Chettinad Chicken Curry,"chicken, coconut, tomatoes, spices",Cook chicken in a spicy coconut-based gravy.
+71,Arisi Upma,"rice, mustard seeds, curry leaves, vegetables","Stir-fry rice with mustard seeds, curry leaves, and mixed veggies."
+72,Peanut Sundal,"peanuts, coconut, mustard seeds, curry leaves","Boil peanuts and temper with mustard seeds, curry leaves, and coconut."
+73,Rice Kheer,"rice, milk, sugar, cardamom","Simmer rice in milk, add sugar and cardamom for flavor."
+74,Pineapple Pachadi,"pineapple, yogurt, mustard seeds, curry leaves",Prepare pineapple in yogurt with mustard tempering.
+75,Thalipeeth,"whole wheat flour, onions, spices, coriander","Prepare dough, roll out, and cook on a griddle with ghee."
+76,Palak Paneer,"paneer, spinach, cream, garam masala","Simmer spinach with paneer, season with garam masala and cream."
+77,Venn Pongal,"rice, moong dal, black pepper, ginger","Cook rice and dal with spices, temper with ghee."
+78,Spinach Vadai,"urad dal, spinach, curry leaves, mustard seeds","Grind dal with spinach, deep-fry as fritters."
+79,Situ Vada,"urad dal, chana dal, onions, spices","Shape the mixture into vadas, deep-fry till golden."
+80,Moong Dal Kheer,"moong dal, jaggery, coconut milk, cardamom","Prepare sweet kheer with moong dal, jaggery, and coconut milk."
+81,Sweet Pongal,"rice, moong dal, jaggery, ghee","Cook rice and dal, and finish with jaggery and ghee."
+82,Besan Ladoo,"gram flour, ghee, sugar, cardamom",Prepare ladoos by roasting gram flour in ghee and mixing with sugar.
+83,Vada Curry,"urad dal vadas, tomato, onion, spices","Prepare vadas, then simmer in a flavorful curry gravy."
+84,Sundal Salad,"chickpeas, cucumber, tomatoes, mustard seeds","Boil chickpeas, chop veggies, and season with mustard seeds."
+85,Chickpea Pulao,"rice, chickpeas, spices, onions",Cook rice with chickpeas and spices for a nutritious meal.
+86,Mysore Masala Dosa,"dosa, spiced potato filling, chutney",Fill dosa with spicy potato mixture and serve with chutney.
+87,Brinjal Gothsu,"eggplant, tamarind, mustard seeds, curry leaves","Prepare a tangy curry with eggplant, tamarind, and spices."
+88,Spinach Sambar,"moong dal, spinach, tamarind, mustard seeds","Prepare sambar with spinach and moong dal, temper with mustard seeds."
+89,Pulao with Raita,"rice, mixed vegetables, yogurt, cumin",Serve vegetable pulao with a side of raita.
+90,Chili Bhindi,"okra, chili, onion, spices",Stir-fry okra with chili and spices for a flavorful side dish.
+91,Vegetable Adai,"rice, urad dal, chana dal, mixed vegetables","Grind batter, mix with veggies, and cook as pancakes."
+92,Pesarattu Upma,"green gram, upma, spices",Serve pesarattu with a side of spicy upma.
+93,Veg Korma,"vegetables, coconut, cashews, garam masala","Cook vegetables in a rich, creamy coconut gravy."
+94,Seeraga Samba Rice,"rice, spices, ghee",Cook seeraga samba rice with spices and ghee.
+95,Vegetable Methi Paratha,"methi leaves, wheat flour, spices","Prepare dough with methi leaves and spices, cook on a griddle."
+96,Mango Pudding,"mango, milk, sugar, agar-agar",Prepare a creamy mango pudding with milk and agar-agar.
+97,Spicy Moong Dal,"moong dal, green chilies, garlic, mustard seeds","Simmer moong dal with spices, temper with garlic and mustard seeds."
+98,Chili Garlic Noodles,"noodles, garlic, green chilies, soy sauce","Cook noodles and stir-fry with garlic, chilies, and soy sauce."
+99,Rava Laddu,"rava, ghee, sugar, cardamom","Prepare laddus from roasted semolina, ghee, and sugar."
+100,Chili Tofu,"tofu, green chilies, soy sauce, vinegar","Stir-fry tofu with soy sauce, vinegar, and green chilies."
+101,Butter Chicken,"chicken, butter, cream, tomatoes","Cook chicken in a rich, creamy butter sauce made with tomatoes, cream, and spices."
+102,Paneer Butter Masala,"paneer, butter, cream, tomatoes","Cook paneer in a creamy, buttery tomato gravy with a blend of spices."
+103,Dal Makhani,"urad dal, rajma, butter, cream",Slow cook lentils and beans in a buttery gravy with cream and spices.
+104,Aloo Gobi,"potatoes, cauliflower, turmeric, cumin","Fry potatoes and cauliflower with spices like turmeric, cumin, and garam masala."
+105,Chole Bhature,"chickpeas, flour, yogurt, spices",Cook chickpeas in a spicy gravy and serve with deep-fried bread (bhature).
+106,Chana Masala,"chickpeas, onions, tomatoes, spices",Cook chickpeas in a spiced tomato gravy with onions and garam masala.
+107,Palak Paneer,"paneer, spinach, garlic, cream","Cook spinach with garlic and spices, and add paneer and cream for a rich gravy."
+108,Methi Thepla,"methi leaves, wheat flour, yogurt, spices","Prepare dough with methi leaves, knead, and roll out into flatbreads, then cook on a griddle."
+109,Rajma,"red kidney beans, onions, tomatoes, ginger","Cook kidney beans in a tomato-based gravy with onions, ginger, and spices."
+110,Kadhi Pakora,"gram flour, yogurt, spices, onions",Fry gram flour dumplings (pakoras) and cook in a spiced yogurt gravy.
+111,Samosa,"potatoes, peas, flour, cumin","Stuff flour pastry with spiced potato and peas, then deep fry."
+112,Aloo Tikki,"potatoes, breadcrumbs, spices, green chilies",Fry spiced potato patties until crispy and golden.
+113,Gajar Halwa,"carrot, milk, sugar, ghee","Grate carrots, cook in milk and ghee, and sweeten with sugar for a rich dessert."
+114,Pulao,"rice, mixed vegetables, spices",Cook rice with vegetables and spices like cumin and cinnamon.
+115,Pani Puri,"puffed puris, tamarind, potatoes, chickpeas","Prepare a spicy and tangy filling of tamarind and potatoes, stuff in crispy puris, and serve."
+116,Chaat,"puri, chickpeas, yogurt, tamarind","Serve crispy puris topped with chickpeas, yogurt, and sweet and tangy tamarind sauce."
+117,Naan,"flour, yogurt, butter, yeast","Prepare dough, roll it out into flatbread, and bake in a tandoor."
+118,Garlic Naan,"flour, garlic, butter, yogurt","Prepare naan dough, sprinkle garlic on top, and bake in a tandoor."
+119,Tandoori Roti,"flour, water, yeast","Prepare dough, roll it into flatbreads, and bake in a tandoor."
+120,Tandoori Chicken,"chicken, yogurt, tandoori masala, garlic","Marinate chicken in yogurt and spices, then cook in a tandoor."
+121,Seekh Kebab,"ground meat, spices, skewers","Grind meat with spices, shape into kebabs, and cook on skewers."
+122,Rogan Josh,"lamb, yogurt, garlic, ginger","Cook lamb in a spicy yogurt-based gravy with garlic, ginger, and spices."
+123,Kadhi,"yogurt, gram flour, mustard seeds, curry leaves",Cook a yogurt-based gravy thickened with gram flour and seasoned with mustard seeds and curry leaves.
+124,Gulab Jamun,"khoya, sugar, rose water, ghee",Fry khoya dough balls until golden and soak in sugar syrup flavored with rose water.
+125,Jalebi,"maida, sugar, saffron, ghee",Fry spiral-shaped batter and soak in sweet saffron syrup.
+126,Raita,"yogurt, cucumber, spices, mint",Mix yogurt with chopped cucumber and season with spices like cumin and mint.
+127,Tandoori Pomfret,"pomfret, yogurt, tandoori masala, garlic","Marinate pomfret with yogurt, spices, and grill in a tandoor."
+128,Pesarattu,"green gram, rice flour, ginger","Grind green gram and rice flour into a batter, then fry on a griddle."
+129,Mutton Korma,"mutton, yogurt, cashews, spices","Cook mutton in a rich gravy made with yogurt, cashews, and a blend of aromatic spices."
+130,Mutton Biryani,"mutton, rice, saffron, yogurt",Cook mutton and rice with spices and saffron for a fragrant and flavorful biryani.
+131,Chicken Biryani,"chicken, rice, saffron, yogurt",Cook chicken and rice with aromatic spices and saffron for a fragrant biryani.
+132,Shahi Paneer,"paneer, cream, tomatoes, cashews",Cook paneer in a creamy tomato gravy with cashew paste and spices.
+133,Khichdi,"rice, lentils, ghee, cumin",Cook rice and lentils with ghee and spices to make a comforting dish.
+134,Lassi,"yogurt, water, sugar, cardamom","Blend yogurt with water, sugar, and cardamom to make a sweet or savory drink."
+135,Amritsari Kulcha,"maida, potatoes, onions, spices",Stuff soft dough with spiced potato filling and cook on a griddle.
+136,Chole Puri,"chickpeas, flour, spices",Cook chickpeas in a spicy gravy and serve with fluffy puris.
+137,Malai Kofta,"potatoes, paneer, cream, tomatoes",Cook paneer and potato balls in a creamy tomato gravy.
+138,Aloo Paratha,"potatoes, wheat flour, spices","Stuff whole wheat dough with spiced mashed potatoes, roll out, and cook on a griddle."
+139,Gobhi Paratha,"cauliflower, wheat flour, spices","Stuff whole wheat dough with grated cauliflower and spices, roll out, and cook on a griddle."
+140,Dum Aloo,"potatoes, yogurt, garlic, spices","Cook potatoes in a rich, spiced gravy made with yogurt and garlic."
+141,Pakora,"gram flour, potatoes, spinach, spices","Fry spiced fritters made from gram flour, potatoes, and spinach."
+142,Tandoori Gobhi,"cauliflower, yogurt, tandoori masala","Marinate cauliflower in yogurt and tandoori masala, then cook in a tandoor."
+143,Pulao Biryani,"rice, vegetables, spices",Cook rice with mixed vegetables and spices for a quick pulao biryani.
+144,Sarson Da Saag,"mustard greens, makki di roti, ghee","Cook mustard greens with spices, served with maize flour roti."
+145,Bhindi Masala,"okra, onions, tomatoes, cumin","Stir-fry okra with onions, tomatoes, and spices for a flavorful side dish."
+146,Lahori Fish,"fish fillets, yogurt, spices, lemon","Marinate fish in yogurt and spices, then shallow fry or grill."
+147,Punjabi Kadhi,"yogurt, gram flour, mustard seeds, curry leaves",Cook yogurt-based gravy with gram flour and temper with mustard seeds and curry leaves.
+148,Pesarattu Dosa,"green gram, rice flour, spices","Prepare dosa batter from green gram and rice flour, and cook crispy dosas."
+149,Chana Chaat,"chickpeas, onions, tomatoes, chutney","Prepare a tangy chaat with chickpeas, onions, tomatoes, and chutney."
+150,Malai Markhi,"milk, saffron, almonds, sugar","Boil milk with saffron, add almonds, and sweeten for a rich dessert."
+151,Aloo Gobi Paratha,"potatoes, cauliflower, wheat flour",Stuff whole wheat dough with spiced potato-cauliflower mix and cook on a griddle.
+152,Lassi (Salted),"yogurt, salt, cumin","Blend yogurt with water, salt, and cumin to make a savory drink."
+153,Gobi Masala,"cauliflower, onions, tomatoes, ginger","Stir-fry cauliflower with onions, tomatoes, and spices for a flavorful curry."
+154,Chana Dal,"chana dal, onions, garlic, spices","Cook split chickpeas with garlic, onions, and spices to make a hearty curry."
+155,Mathri,"flour, ghee, carom seeds","Prepare dough, roll into circles, and fry until crispy."
+156,Chutney,"coriander, mint, tamarind, green chilies","Blend coriander, mint, and tamarind into a tangy dip or sauce."
+157,Kashmiri Pulao,"rice, fruits, saffron, nuts","Cook rice with dried fruits, saffron, and nuts for a fragrant Kashmiri pulao."
+158,Gobhi Manchurian,"cauliflower, soy sauce, ginger, garlic","Fry cauliflower in a batter, then toss with soy sauce, ginger, garlic, and spices."
+159,Sarson Ka Saag,"mustard greens, makki ka atta, ghee","Cook mustard greens with maize flour and spices, and serve with ghee."
+160,Chana Dal Tadka,"chana dal, ghee, cumin, garlic",Cook chana dal and season with a tempering of cumin and garlic.
+161,Lahori Chana,"chickpeas, onions, ginger, garlic","Cook chickpeas with onions, ginger, garlic, and spices for a hearty curry."
+162,Shahi Tukda,"bread, milk, sugar, saffron","Deep fry bread slices, soak in sugar syrup, then serve with saffron milk."
+163,Sabudana Khichdi,"sago, peanuts, potatoes, cumin","Stir-fry soaked sago with peanuts, potatoes, and cumin for a light dish."
+164,Punjabi Paratha,"flour, potatoes, paneer, spices",Stuff paratha dough with spiced potato or paneer filling and cook on a griddle.
+165,Rajma Chawal,"red kidney beans, rice, onions, tomatoes",Cook kidney beans in a spiced gravy and serve with steamed rice.
+166,Chawal Kheer,"rice, milk, sugar, cardamom","Cook rice in milk, sweeten with sugar, and flavor with cardamom for a creamy dessert."
+167,Paneer Tikka,"paneer, yogurt, tandoori masala, lemon","Marinate paneer cubes in yogurt and spices, then grill them."
+168,Khoya,"Milk, sugar, ghee, cardamom","Slow cook milk to make khoya, then sweeten with sugar and flavor with cardamom."
+169,Almond Rice,"rice, almonds, saffron, ghee","Cook rice with saffron and ghee, then top with sliced almonds."
+170,Paneer Kofta,"paneer, cream, tomatoes, spices",Cook paneer balls in a creamy tomato gravy.
+171,Cabbage Sabzi,"cabbage, onions, cumin, mustard seeds","Stir-fry shredded cabbage with onions, cumin, and mustard seeds."
+172,Methi Malai Murg,"chicken, methi, cream, spices",Cook chicken in a creamy methi-flavored gravy with spices.
+173,Vegetable Kofta,"mixed vegetables, gram flour, yogurt",Fry vegetable dumplings and cook them in a rich gravy.
+174,Shrikhand,"yogurt, sugar, saffron, cardamom","Prepare thick yogurt, sweeten with sugar, and flavor with saffron and cardamom."
+175,Lamb Kofta Curry,"lamb, gram flour, tomatoes, cream",Fry lamb meatballs and cook them in a creamy tomato gravy.
+176,Chaas,"yogurt, cumin, water","Blend yogurt with water, cumin, and spices for a refreshing drink."
+177,Kachori,"flour, spiced filling, oil",Stuff dough with a spiced filling and deep fry to make crispy kachoris.
+178,Chole Tikka,"chickpeas, yogurt, masala, garlic",Grill chickpeas marinated in yogurt and spices for a smoky flavor.
+179,Ragi Mudde,"Ragi flour, Water","1. Boil water and slowly add ragi flour, stirring continuously. 2. Cook until it forms a dough-like consistency. 3. Shape into balls and serve with sambar or curry."
+180,Kalu Gojju,"Mixed vegetables, Coconut, Mustard seeds",1. Cook mixed vegetables until soft. 2. Grind coconut with spices. 3. Mix ground coconut into vegetables and cook for a few minutes.
+181,Sushi,"rice, seaweed, fish, vinegar","Prepare sushi rice with vinegar. Lay seaweed, add rice and fish, roll, and slice."
+182,Ramen,"noodles, broth, pork, egg, soy sauce","Boil noodles, prepare broth with soy sauce, and serve with pork and egg."
+183,Tempura,"shrimp, flour, eggs, oil",Coat shrimp in batter and deep fry until golden.
+184,Takoyaki,"octopus, flour, eggs, green onions","Pour batter in molds, add octopus, and cook until golden brown."
+185,Okonomiyaki,"cabbage, flour, eggs, pork, sauce","Mix ingredients into batter, cook on griddle, and drizzle with sauce."
+186,Miso Soup,"miso paste, tofu, seaweed, dashi","Mix miso paste in hot dashi, add tofu and seaweed, and serve."
+187,Tonkatsu,"pork, breadcrumbs, flour, eggs",Coat pork in breadcrumbs and deep fry until crispy.
+188,Sashimi,"raw fish, soy sauce, wasabi",Slice fish thinly and serve with soy sauce and wasabi.
+189,Unagi Don,"eel, rice, soy sauce, mirin",Grill eel with sauce and serve over steamed rice.
+190,Chawanmushi,"eggs, dashi, chicken, mushrooms",Steam egg mixture with dashi and toppings in a cup.
+191,Gyoza,"pork, cabbage, ginger, garlic","Fill dumpling wrappers with mixture, fry, and steam."
+192,Katsu Curry,"pork cutlet, curry sauce, rice","Fry pork cutlet, prepare curry sauce, and serve with rice."
+193,Yakitori,"chicken, soy sauce, mirin","Skewer chicken, grill, and brush with sauce."
+194,Onigiri,"rice, seaweed, pickled plum",Shape rice into triangles and wrap in seaweed with filling.
+195,Shabu Shabu,"beef, vegetables, broth",Dip beef and vegetables in hot broth and cook briefly.
+196,Sukiyaki,"beef, soy sauce, sugar, vegetables",Cook ingredients in soy-sugar mixture and serve hot.
+197,Udon,"udon noodles, broth, scallions","Cook noodles, prepare broth, and garnish with scallions."
+198,Soba,"buckwheat noodles, dashi, soy sauce","Boil noodles, serve chilled with dipping sauce."
+199,Karaage,"chicken, soy sauce, ginger, starch","Marinate chicken, coat in starch, and deep fry."
+200,Donburi,"rice, meat, vegetables, sauce",Serve meat and vegetables over rice with sauce.
+201,Spaghetti Bolognese,"spaghetti, minced beef, tomato sauce, garlic",Cook spaghetti and prepare Bolognese sauce by sautéing garlic and simmering with minced beef and tomato sauce.
+202,Caesar Salad,"romaine lettuce, croutons, Caesar dressing, Parmesan","Toss lettuce, croutons, and Caesar dressing. Top with grated Parmesan."
+203,Beef Stroganoff,"beef, mushrooms, sour cream, onion","Sauté beef and mushrooms, then mix with sour cream and serve over noodles."
+204,Fish and Chips,"cod, potatoes, flour, oil","Coat fish in batter, deep fry, and serve with fries."
+205,Ratatouille,"eggplant, zucchini, tomatoes, olive oil","Layer sliced vegetables, bake with olive oil, and season."
+206,Croque Monsieur,"ham, cheese, bread, butter","Assemble sandwich with ham and cheese, butter, and grill until golden."
+207,Chicken Pot Pie,"chicken, peas, carrots, puff pastry","Prepare a chicken filling, top with puff pastry, and bake until golden."
+208,Greek Moussaka,"eggplant, minced lamb, béchamel sauce, spices","Layer eggplant and lamb filling, top with béchamel, and bake."
+209,Paella,"rice, seafood, saffron, bell peppers","Cook rice with saffron, add seafood, and garnish with vegetables."
+210,Chicken Alfredo,"pasta, chicken, cream, Parmesan","Cook pasta, sauté chicken, and mix with creamy Parmesan sauce."
+211,Buffalo Wings,"chicken wings, hot sauce, butter",Fry wings and coat with a mix of hot sauce and butter.
+212,Lasagna,"lasagna sheets, ground beef, ricotta, marinara sauce","Layer pasta with meat sauce and cheese, then bake."
+213,Minestrone Soup,"vegetables, beans, pasta, broth","Cook vegetables in broth, add pasta and beans, and simmer."
+214,New England Clam Chowder,"clams, potatoes, cream, onion","Cook clams with potatoes and cream, and season."
+215,Cobb Salad,"lettuce, chicken, avocado, bacon, blue cheese",Arrange ingredients over lettuce and drizzle with dressing.
+216,Pulled Pork Sandwich,"pork shoulder, BBQ sauce, buns",Slow-cook pork with BBQ sauce and serve on buns.
+217,Moussaka,"lamb, eggplant, béchamel, cinnamon","Layer eggplant and lamb mixture, top with béchamel, and bake."
+218,Irish Stew,"lamb, potatoes, onions, carrots",Cook lamb with vegetables in broth until tender.
+219,Eggs Benedict,"eggs, English muffin, hollandaise sauce, ham","Poach eggs, assemble with ham on muffins, and top with hollandaise sauce."
+220,French Onion Soup,"onions, beef broth, cheese, baguette","Sauté onions, simmer in broth, and top with bread and melted cheese."
+221,Waffles,"flour, eggs, milk, sugar",Prepare batter and cook in a waffle iron until golden.
+222,Apple Pie,"apples, cinnamon, sugar, pastry crust",Fill pastry with spiced apples and bake until golden.
+223,Crepes,"flour, eggs, milk, butter","Prepare thin batter, cook on a griddle, and fill with sweet or savory toppings."
+224,Roast Beef,"beef, garlic, rosemary, olive oil","Rub beef with garlic and herbs, and roast until desired doneness."
+225,Hamburgers,"ground beef, buns, lettuce, cheese","Form patties, grill, and assemble with buns and toppings."
+226,Grilled Cheese Sandwich,"bread, cheese, butter","Butter bread, add cheese, and grill until golden."
+227,Macaroni and Cheese,"macaroni, cheddar, milk, butter","Cook macaroni, mix with a cheese sauce, and bake if desired."
+228,BBQ Ribs,"pork ribs, BBQ sauce, spices","Rub ribs with spices, slow-cook, and coat with BBQ sauce."
+229,Shepherd’s Pie,"ground lamb, mashed potatoes, peas, carrots","Layer lamb filling and mashed potatoes, and bake until golden."
+230,Clam Linguine,"linguine, clams, garlic, olive oil","Cook linguine, sauté clams with garlic, and toss together."
+231,Tiramisu,"mascarpone, coffee, ladyfingers, cocoa layer",Layer soaked ladyfingers with mascarpone mixture and dust with cocoa.
+232,Pumpkin Pie,"pumpkin puree, spices, pastry crust","Prepare pumpkin filling, pour into crust, and bake until set."
+233,Roast Chicken,"chicken, garlic, lemon, rosemary","Rub chicken with garlic and herbs, and roast until golden."
+234,Fettuccine Alfredo,"fettuccine, butter, Parmesan, cream","Cook fettuccine, mix with creamy Parmesan sauce."
+235,Meatloaf,"ground beef, breadcrumbs, egg, ketchup","Mix ingredients, form into a loaf, and bake until cooked through."
+236,Steak Frites,"steak, potatoes, garlic butter","Grill steak to preference, serve with crispy fries and garlic butter."
+237,Bagels and Lox,"bagels, smoked salmon, cream cheese, capers","Spread cream cheese on bagels, top with salmon and capers."
+238,Crab Cakes,"crab meat, breadcrumbs, egg, spices","Mix ingredients, form into cakes, and pan-fry until golden."
+239,Beignets,"flour, yeast, sugar, powdered sugar","Fry dough pieces until puffed and golden, and dust with sugar."
+240,Pancakes,"flour, eggs, milk, sugar","Mix batter, pour onto griddle, and cook until golden."
+241,Chocolate Brownies,"chocolate, flour, butter, sugar","Mix batter, bake until set, and let cool before slicing."
+242,Cornbread,"cornmeal, flour, eggs, milk",Bake a batter of cornmeal and flour until golden and firm.
+243,Pesto Pasta,"pasta, basil, Parmesan, pine nuts",Toss cooked pasta with fresh pesto sauce and garnish with cheese.
+244,Sausage Rolls,"sausage, puff pastry, egg","Wrap sausage in pastry, brush with egg wash, and bake."
+245,Cheesecake,"cream cheese, sugar, eggs, graham crackers",Bake cream cheese filling over crust and chill until firm.
+246,Fried Chicken,"chicken, flour, spices, oil","Coat chicken in seasoned flour, and fry until crispy."
+247,Cinnamon Rolls,"flour, butter, sugar, cinnamon","Prepare dough, roll with filling, and bake until golden."
+248,Hot Dogs,"hot dog buns, sausages, mustard, relish","Grill sausages, place in buns, and add toppings."
+249,Shakshuka,"eggs, tomatoes, bell peppers, spices","Cook spiced tomato mixture, crack eggs on top, and simmer until set."
+250,Gnocchi,"potatoes, flour, egg, butter","Prepare dough, roll into shapes, boil, and sauté in butter."
+251,Cobbler,"fruits (peach or berries), flour, sugar, butter","Prepare fruit filling, top with biscuit dough, and bake."
+252,Chicken Parmesan,"chicken breast, marinara sauce, mozzarella, breadcrumbs","Bread and fry chicken, top with sauce and cheese, and bake."
+253,Jambalaya,"rice, sausage, shrimp, bell peppers","Cook rice with sausage, shrimp, and spices for a hearty dish."
+254,Potato Gratin,"potatoes, cream, cheese, garlic","Layer thinly sliced potatoes with cream and cheese, then bake."
+255,Lobster Roll,"lobster, mayonnaise, lemon juice, buns",Mix lobster meat with dressing and serve in buttered buns.
+256,Chicken and Waffles,"fried chicken, waffles, syrup",Serve crispy fried chicken over waffles with syrup.
+257,Roast Pork,"pork loin, garlic, rosemary, olive oil","Rub pork with seasonings, roast until tender, and slice."
+258,Stuffed Bell Peppers,"bell peppers, rice, ground beef, tomato sauce","Stuff peppers with rice and beef mixture, and bake with sauce."
+259,Baked Ziti,"pasta, ricotta, marinara sauce, mozzarella","Layer cooked pasta with sauce and cheese, and bake until bubbly."
+260,Chowder Bread Bowl,"chowder (clam or corn), sourdough bread","Hollow bread, fill with chowder, and serve warm."
+261,Scotch Eggs,"boiled eggs, sausage, breadcrumbs, oil","Coat boiled eggs with sausage and breadcrumbs, then fry."
+262,Quiche Lorraine,"eggs, cream, bacon, cheese","Fill a pastry crust with custard, bacon, and cheese, then bake."
+263,French Crepes,"flour, eggs, milk, butter",Cook thin batter on a pan and fill with sweet or savory fillings.
+264,Chicken Cacciatore,"chicken, tomatoes, bell peppers, wine",Simmer chicken with vegetables and wine for a rich stew.
+265,Beef Wellington,"beef tenderloin, puff pastry, mushrooms, prosciutto",Wrap beef in pastry with mushrooms and bake.
+266,Tortilla Soup,"chicken broth, tortilla strips, tomatoes, spices","Simmer broth with tomatoes, top with tortilla strips, and garnish."
+267,Cinnamon Bread Pudding,"bread, cinnamon, sugar, cream",Bake bread pieces with cinnamon custard until golden.
+268,Grilled Shrimp Skewers,"shrimp, olive oil, garlic, spices","Marinate shrimp, skewer, and grill until charred."
+269,Caprese Salad,"tomatoes, mozzarella, basil, olive oil","Arrange slices of tomato and mozzarella, drizzle with oil."
+270,Chicken Tenders,"chicken, flour, egg, breadcrumbs",Bread chicken strips and fry until crispy.
+271,Crème Brûlée,"cream, sugar, eggs, vanilla","Bake custard, cool, and caramelize sugar on top."
+272,Frittata,"eggs, cheese, vegetables, olive oil",Cook eggs with cheese and vegetables in a skillet.
+273,Shrimp Scampi,"shrimp, garlic, butter, pasta","Sauté shrimp with garlic and butter, and toss with pasta."
+274,Pecan Pie,"pecans, sugar, eggs, pastry crust",Fill pastry with sweet pecan mixture and bake until set.
+275,Sloppy Joes,"ground beef, ketchup, buns, onions","Cook beef with ketchup and onions, and serve on buns."
+276,Philly Cheesesteak,"beef, cheese, bell peppers, hoagie rolls","Sauté beef and peppers, add cheese, and serve on rolls."
+277,Chili con Carne,"ground beef, beans, tomatoes, chili powder",Simmer beef with beans and spices for a hearty stew.
+278,Gelato,"milk, cream, sugar, flavoring",Churn mixture in an ice cream maker until creamy.
+279,Corn Dogs,"hot dogs, cornmeal batter, oil",Dip hot dogs in batter and fry until golden.
+280,Donuts,"flour, sugar, yeast, oil","Fry dough rounds, glaze, or coat with sugar."
+281,Chicken Noodle Soup,"chicken, noodles, carrots, broth","Cook chicken and vegetables in broth, then add noodles."
+282,Vegetable Stir Fry,"vegetables, soy sauce, garlic, oil",Sauté mixed vegetables in garlic and soy sauce.
+283,Chocolate Fondue,"chocolate, cream, fruit, marshmallows","Melt chocolate with cream, and dip fruits and marshmallows."
+284,Key Lime Pie,"key limes, condensed milk, pastry crust",Fill crust with lime mixture and chill until set.
+285,Muffins,"flour, sugar, eggs, milk",Bake batter in muffin tins until fluffy.
+286,French Toast,"bread, eggs, milk, sugar","Dip bread in egg mixture, cook until golden, and serve."
+287,Ratatouille,"eggplant, zucchini, tomatoes, olive oil",Layer sliced vegetables and bake with olive oil.
+288,Burgundy Beef Stew,"beef, wine, mushrooms, carrots",Simmer beef in red wine with mushrooms and vegetables.
+289,Soufflé,"eggs, cheese, milk, butter",Bake a fluffy mixture of eggs and cheese.
+290,Peach Cobbler,"peaches, sugar, flour, butter",Bake peaches with a biscuit-like topping until golden.
+291,Snickerdoodles,"flour, sugar, cinnamon, butter",Bake cookies rolled in cinnamon sugar.
+292,Chicken Piccata,"chicken, lemon, capers, butter","Sauté chicken with lemon and capers, and serve with sauce."
+293,S'mores,"graham crackers, marshmallows, chocolate",Assemble and toast marshmallows until gooey.
+294,Barbecue Chicken Pizza,"chicken, BBQ sauce, cheese, pizza dough","Top dough with sauce, chicken, and cheese, then bake."
+295,Cheddar Biscuits,"flour, cheddar, butter, milk",Bake biscuit dough with shredded cheddar mixed in.
+296,Coffee Cake,"flour, sugar, cinnamon, butter",Bake cake with a cinnamon-sugar topping.
+297,Corn Chowder,"corn, potatoes, cream, broth",Simmer corn and potatoes in cream-based broth.
+298,Turkey Roast,"turkey, garlic, herbs, butter",Roast turkey with garlic and herbs until golden.
+299,Potato Salad,"potatoes, mayonnaise, mustard, celery",Mix cooked potatoes with dressing and seasonings.
+300,Cranberry Sauce,"cranberries, sugar, orange juice",Cook cranberries with sugar and orange juice until thickened.
+301,Borscht,"beetroot, cabbage, potatoes, sour cream","Cook beets and vegetables in broth, serve with sour cream."
+302,Beef Stroganoff,"beef, mushrooms, sour cream, onions","Sauté beef and mushrooms, stir in sour cream sauce."
+303,Pelmeni,"ground meat, flour, eggs, butter","Wrap meat filling in dough, boil, and serve with butter."
+304,Olivier Salad,"potatoes, carrots, peas, mayonnaise, chicken","Combine cooked vegetables, chicken, and mayonnaise."
+305,Blini,"flour, eggs, milk, butter",Cook thin pancakes and serve with sweet or savory fillings.
+306,Shchi,"cabbage, potatoes, carrots, meat, sour cream","Simmer vegetables and meat in broth, and garnish with cream."
+307,Pirozhki,"flour, eggs, ground meat, cabbage",Stuff dough with fillings and bake or fry.
+308,Solyanka,"pickles, olives, beef, lemon slices","Cook meat and pickles in broth, garnish with lemon."
+309,Rassolnik,"pickled cucumbers, barley, beef, potatoes",Cook barley with pickles and beef for a tangy soup.
+310,Kulebyaka,"salmon, rice, mushrooms, puff pastry",Layer fillings in pastry and bake until golden.
+311,Holodets,"meat, gelatin, garlic, spices","Simmer meat with gelatin, cool in molds until set."
+312,Vatrushka,"cottage cheese, flour, sugar, butter",Fill dough with sweetened cheese and bake.
+313,Okroshka,"kefir, cucumbers, radishes, boiled eggs",Mix cold vegetables and eggs with kefir base.
+314,Kasha,"buckwheat, milk, sugar, butter",Cook buckwheat with milk for a creamy porridge.
+315,Zharkoye,"beef, potatoes, carrots, onions",Simmer beef and vegetables in a hearty stew.
+316,Syrniki,"cottage cheese, flour, sugar, eggs",Fry cottage cheese pancakes and serve with jam.
+317,Golubtsy,"cabbage, ground meat, rice, tomato sauce",Wrap meat filling in cabbage leaves and simmer in sauce.
+318,Leningrad Cake,"cookies, butter, sugar, cocoa layer",Layer cookies with buttercream and coat with chocolate glaze.
+319,Kharcho,"beef, rice, walnuts, spices","Cook beef with rice, walnuts, and a spicy broth."
+320,Knish,"potatoes, onions, dough, butter",Stuff dough with potato filling and bake or fry.
+321,Medovik,"honey, sour cream, sugar, flour",Bake honey cake layers and stack with sour cream frosting.
+322,Smetannik,"sour cream, sugar, flour, butter",Layer sponge cake with sour cream frosting and chill.
+323,Chak-Chak,"flour, honey, sugar, oil","Fry dough pieces, coat with honey syrup, and stack."
+324,Russian Napoleon,"flour, butter, milk, custard",Create pastry layers and stack with custard filling.
+325,Bitochki,"ground meat, breadcrumbs, egg, cream","Form meat patties, pan-fry, and serve with cream sauce."
+326,Kulebyaka Pie,"rice, mushrooms, fish, puff pastry",Bake fish-filled pie in layers with rice and mushrooms.
+327,Pasha,"cottage cheese, sugar, dried fruits, butter","Mix ingredients, shape, and chill until firm."
+328,Pampushki,"flour, garlic, sour cream, butter",Bake buns and coat with garlic butter.
+329,Ryazhanka,"fermented milk, sugar, vanilla",Chill fermented milk and serve as a dessert or drink.
+330,Belyashi,"ground meat, flour, eggs, oil","Stuff dough with meat filling, fry until golden."
+331,Sharlotka,"apples, sugar, eggs, flour",Bake apple cake with a fluffy batter.
+332,Vareniki,"potatoes, cheese, flour, butter","Fill dumplings with potatoes or cheese, boil, and serve."
+333,Telyachye Golovy,"veal, onions, carrots, gelatin",Prepare veal aspic with carrots and onions.
+334,Zakuski,"salmon, pickles, black bread, sour cream",Arrange salmon and pickles on bread and garnish with cream.
+335,Draniki,"potatoes, eggs, flour, sour cream",Fry grated potato pancakes and serve with cream.
+336,Priyanik,"flour, honey, spices, sugar",Bake honey-spice cookies with a sugar glaze.
+337,Mimosa Salad,"canned fish, eggs, carrots, mayonnaise",Layer salad ingredients with mayonnaise and chill.
+338,Podshchelok,"sauerkraut, pork, barley, onions",Cook sauerkraut and pork stew with barley for a tangy dish.
+339,Plov,"rice, lamb, carrots, spices",Sauté rice and lamb with spices for a pilaf.
+340,Zefir,"egg whites, sugar, gelatin, fruit puree",Whip and set as fluffy fruit marshmallows.
+341,Khvorost,"flour, eggs, sugar, oil",Fry thin dough shapes until crispy and coat with sugar.
+342,Tyurya,"rye bread, onions, water, oil",Prepare a rustic bread soup with onions and oil.
+343,Kissel,"berries, sugar, starch, water",Cook berries with starch for a sweet pudding-like dessert.
+344,Pumpkin Porridge,"pumpkin, milk, sugar, rice",Cook pumpkin with rice in sweetened milk.
+345,Solyanka Pie,"cabbage, sausage, flour, eggs",Bake a savory pie with cabbage and sausage filling.
+346,Buckwheat Pilaf,"buckwheat, carrots, onions, chicken",Cook buckwheat with chicken and vegetables for a pilaf.
+347,Knyedliky,"dough, potatoes, onions, butter","Boil dumplings, toss in butter, and serve with onions."
+348,Cabbage Pie,"cabbage, flour, eggs, butter",Fill dough with cabbage mixture and bake.
+349,Pochivok,"beets, potatoes, onions, vinegar",Cook and pickle vegetables for a tangy side dish.
+350,Russian Tea Cakes,"flour, butter, sugar, nuts",Bake buttery cookies rolled in powdered sugar.
+351,Tacos al Pastor,"pork, pineapple, tortillas, chili paste","Marinate pork in chili paste, grill, and serve with pineapple on tortillas."
+352,Chiles en Nogada,"poblano peppers, ground meat, walnuts, pomegranate","Stuff peppers with meat, top with walnut sauce, and garnish with pomegranate seeds."
+353,Mole Poblano,"chicken, chocolate, chili peppers, spices",Cook chicken and serve with rich mole sauce made with chocolate and spices.
+354,Enchiladas Verdes,"tortillas, chicken, green salsa, cheese","Fill tortillas with chicken, top with green salsa and cheese, and bake."
+355,Guacamole,"avocados, lime, onions, tomatoes","Mash avocados and mix with lime, onions, and tomatoes."
+356,Tamales,"corn dough, chicken, chili sauce, corn husks",Steam corn dough filled with chicken and chili sauce in corn husks.
+357,Elote,"corn, mayonnaise, chili powder, cheese","Grill corn, slather with mayonnaise, and sprinkle with chili powder and cheese."
+358,Chimichangas,"tortillas, beans, chicken, cheese","Fill tortillas, fry until crispy, and serve with salsa."
+359,Posole,"hominy, pork, chili, lime","Simmer hominy and pork with chili, and garnish with lime."
+360,Quesadillas,"tortillas, cheese, vegetables, salsa","Fill tortillas with cheese and vegetables, cook until melted."
+361,Huevos Rancheros,"eggs, tortillas, tomato salsa, beans",Fry eggs and serve on tortillas with salsa and beans.
+362,Tostadas,"tostada shells, beans, lettuce, cheese",Spread beans on tostada shells and top with lettuce and cheese.
+363,Carnitas,"pork, orange juice, garlic, tortillas","Slow-cook pork in orange juice and garlic, shred, and serve with tortillas."
+364,Churros,"flour, sugar, cinnamon, oil","Fry dough sticks, coat with cinnamon sugar, and serve with chocolate."
+365,Sopa de Lima,"chicken, lime, tortilla strips, spices","Simmer chicken with lime and spices, and serve with tortilla strips."
+366,Flautas,"tortillas, chicken, cheese, sour cream","Fill tortillas, roll, fry, and serve with sour cream."
+367,Pico de Gallo,"tomatoes, onions, cilantro, lime juice","Mix chopped tomatoes, onions, cilantro, and lime juice."
+368,Albondigas,"ground meat, rice, tomatoes, spices",Simmer meatballs with rice in a tomato-based soup.
+369,Camarones a la Diabla,"shrimp, chili sauce, garlic, onions",Sauté shrimp in spicy chili sauce with garlic and onions.
+370,Birria,"goat meat, chili peppers, spices, tortillas","Slow-cook goat meat with spices, serve with broth and tortillas."
+371,Tamales Dulces,"corn dough, sugar, raisins, food coloring",Steam sweet corn dough with raisins and food coloring.
+372,Gorditas,"corn dough, beans, cheese, salsa","Stuff thick tortillas with beans and cheese, and cook."
+373,Machaca,"dried beef, eggs, onions, tortillas","Sauté beef with eggs and onions, serve with tortillas."
+374,Cochinita Pibil,"pork, achiote paste, orange juice, banana leaves","Marinate pork in achiote, wrap in banana leaves, and slow cook."
+375,Nachos,"tortilla chips, cheese, jalapeños, beans","Layer chips with cheese, jalapeños, and beans, and bake."
+376,Menudo,"tripe, hominy, chili powder, lime","Simmer tripe with hominy and chili spices, and garnish with lime."
+377,Calabacitas,"zucchini, corn, cheese, onions","Sauté zucchini with corn and onions, and top with cheese."
+378,Pan de Muerto,"flour, sugar, eggs, orange zest","Bake soft bread flavored with orange zest, dusted with sugar."
+379,Barbacoa,"beef, chili peppers, garlic, spices","Slow-cook beef with chili and spices, and shred for tacos."
+380,Chilaquiles,"tortilla chips, salsa, eggs, cheese","Toss tortilla chips with salsa, top with eggs and cheese."
+381,Esquites,"corn, mayonnaise, chili powder, lime juice","Sauté corn, mix with mayonnaise and chili, and serve with lime."
+382,Frijoles Charros,"beans, bacon, tomatoes, chili","Simmer beans with bacon, tomatoes, and chili."
+383,Huaraches,"corn dough, beans, meat, salsa","Shape dough into oval, cook, and top with beans and meat."
+384,Atole,"corn flour, milk, sugar, cinnamon","Simmer corn flour with milk, sugar, and cinnamon for a warm drink."
+385,Margaritas,"tequila, lime juice, sugar, salt","Mix tequila with lime and sugar, serve with salt-rimmed glass."
+386,Enchiladas Rojas,"tortillas, chili sauce, chicken, cheese","Fill tortillas with chicken, top with chili sauce and cheese, and bake."
+387,Sopes,"corn dough, beans, lettuce, sour cream","Shape corn dough into small rounds, fry, and top with beans and cream."
+388,Torta Ahogada,"telera bread, pork, tomato sauce, chili sauce","Stuff bread with pork, dip in tomato and chili sauce."
+389,Rajas con Crema,"poblano peppers, cream, cheese, onions","Sauté peppers with onions, add cream and cheese."
+390,Bunuelos,"flour, sugar, cinnamon, oil","Fry thin dough, coat with cinnamon sugar."
+391,Pozol,"corn dough, cocoa, water",Mix corn dough with cocoa and water for a traditional drink.
+392,Carne Asada,"beef, lime, garlic, tortillas","Grill beef with lime and garlic, serve with tortillas."
+393,Tinga de Pollo,"chicken, chipotle, onions, tomatoes",Shred chicken and cook in a spicy chipotle sauce.
+394,Molletes,"bolillo bread, beans, cheese, salsa","Top bread halves with beans and cheese, and bake."
+395,Tequila Lime Chicken,"chicken, tequila, lime, chili powder","Marinate chicken in tequila and lime, grill, and serve."
+396,Chorizo con Huevos,"chorizo, eggs, onions, tortillas","Sauté chorizo, scramble eggs, and serve with tortillas."
+397,Tamales de Rajas,"corn dough, poblano peppers, cheese, corn husks","Fill corn dough with peppers and cheese, and steam in corn husks."
+398,Polvorones,"flour, sugar, cinnamon, butter",Bake crumbly cookies flavored with cinnamon.
+399,Empanadas,"flour, beef, cheese, spices","Stuff pastry with fillings, and bake or fry."
+400,ChocoFlan,"flan mix, chocolate cake, caramel","Bake chocolate cake and flan together, top with caramel."
+401,Hummus,"chickpeas, tahini, garlic, lemon juice","Blend chickpeas with tahini, garlic, and lemon juice until smooth."
+402,Falafel,"chickpeas, parsley, garlic, spices","Grind chickpeas with spices, form balls, and deep fry."
+403,Tabbouleh,"bulgur, parsley, tomatoes, lemon juice","Mix bulgur with chopped parsley, tomatoes, and lemon juice."
+404,Baba Ghanoush,"eggplant, tahini, garlic, lemon juice","Grill eggplant, blend with tahini, garlic, and lemon juice."
+405,Shawarma,"chicken, yogurt, garlic, spices","Marinate chicken in spices and yogurt, grill, and slice thinly."
+406,Manakish,"flour, za’atar, olive oil, cheese","Spread za’atar and cheese on dough, and bake."
+407,Shakshuka,"tomatoes, eggs, onions, spices","Simmer tomatoes and onions, add eggs, and cook until set."
+408,Kibbeh,"bulgur, ground meat, onions, spices",Stuff bulgur shells with spiced meat and deep fry or bake.
+409,Moutabal,"eggplant, tahini, yogurt, garlic","Grill eggplant, mix with tahini, yogurt, and garlic."
+410,Mutabbaq,"flour, eggs, minced meat, onions","Stuff pastry with meat filling, and pan fry."
+411,Lahmacun,"flour, ground beef, tomatoes, parsley","Spread beef mixture on flatbread, and bake until crisp."
+412,Fattoush,"pita bread, lettuce, cucumbers, sumac",Toss chopped vegetables with toasted pita and sumac dressing.
+413,Mujadara,"lentils, rice, onions, cumin","Cook lentils and rice, top with caramelized onions."
+414,Sambousek,"flour, ground beef, spices, cheese","Stuff dough with spiced beef or cheese, and deep fry."
+415,Knafeh,"phyllo dough, cheese, sugar syrup","Bake phyllo dough with cheese, and soak in sugar syrup."
+416,Kofta,"ground beef, onions, parsley, spices","Shape spiced beef into skewers, and grill or bake."
+417,Warak Enab,"grape leaves, rice, meat, lemon juice","Stuff grape leaves with rice and meat, simmer in lemon broth."
+418,Basmati Rice with Saffron,"rice, saffron, butter, almonds","Cook rice with saffron, garnish with butter and almonds."
+419,Bastirma,"beef, garlic, fenugreek, paprika",Dry-cure beef with fenugreek and paprika spices.
+420,Harees,"wheat, chicken, butter, cinnamon","Cook wheat with chicken, blend, and serve with butter."
+421,Freekeh,"roasted green wheat, chicken, onions",Simmer freekeh with chicken and spices until tender.
+422,Tahchin,"rice, yogurt, chicken, saffron",Bake layered rice and chicken flavored with saffron.
+423,Balaleet,"noodles, sugar, saffron, eggs","Cook noodles with sugar and saffron, and serve with scrambled eggs."
+424,Zaatar Bread,"flour, za’atar, olive oil, yeast","Spread za’atar on dough, and bake until golden."
+425,Maqluba,"rice, eggplant, meat, spices","Layer rice, eggplant, and meat in a pot, cook, and flip to serve."
+426,Foul Medames,"fava beans, garlic, lemon juice, olive oil","Simmer fava beans, mix with garlic, lemon, and olive oil."
+427,Shish Tawook,"chicken, yogurt, garlic, paprika","Marinate chicken in spices, skewer, and grill."
+428,Om Ali,"puff pastry, milk, sugar, nuts","Bake puff pastry with milk, sugar, and nuts."
+429,Chicken Musakhan,"chicken, onions, sumac, flatbread","Cook chicken with onions and sumac, and serve on flatbread."
+430,Mahlabia,"milk, sugar, rice flour, rose water","Cook milk with sugar and rice flour, and flavor with rose water."
+431,Shorbat Adas,"lentils, onions, cumin, lemon juice","Simmer lentils with spices, and blend into a smooth soup."
+432,Toumiya,"garlic, oil, lemon juice, salt","Whisk garlic, oil, and lemon into a fluffy dip."
+433,Fatteh,"pita bread, yogurt, chickpeas, spices","Layer toasted pita with yogurt, chickpeas, and spices."
+434,Chicken Tagine,"chicken, preserved lemon, olives, spices",Cook chicken with lemon and olives in a tagine pot.
+435,Za'atar Roasted Vegetables,"vegetables, za’atar, olive oil",Toss vegetables with za’atar and roast until tender.
+436,Persian Lamb Stew,"lamb, pomegranate, walnuts, saffron","Cook lamb with pomegranate and walnuts, and simmer with saffron."
+437,Bamia,"okra, lamb, tomatoes, onions",Simmer okra with lamb and tomatoes until tender.
+438,Zereshk Polo,"rice, barberries, chicken, saffron","Cook rice with barberries and saffron, and serve with chicken."
+439,Fesenjan,"chicken, pomegranate molasses, walnuts",Cook chicken in pomegranate and walnut sauce.
+440,Shish Kebab,"lamb, onions, peppers, yogurt","Marinate lamb, skewer with vegetables, and grill."
+441,Quzi,"lamb, rice, spices, nuts","Slow-cook lamb, serve over spiced rice with nuts."
+442,Khubz,"flour, water, yeast, salt",Bake traditional flatbread.
+443,Toum,"garlic, oil, lemon juice, salt",Whisk garlic with oil and lemon to make a fluffy dip.
+444,Molokhia,"jute leaves, chicken, garlic, coriander",Cook leaves with chicken broth and garlic.
+445,Malakoff,"cheese, bread, flour, oil","Coat cheese in bread and flour, fry until golden."
+446,Halloumi Fries,"halloumi, flour, oil",Coat halloumi sticks in flour and fry.
+447,Khubz Jebin,"flour, cheese, butter, yeast",Bake cheese-stuffed bread.
+448,Chicken Kabsa,"chicken, rice, tomatoes, spices",Cook chicken and rice with tomatoes and spices.
+449,Shirin Polow,"rice, carrots, orange peel, nuts",Cook rice with sweetened carrots and nuts.
+450,Kabob Koobideh,"ground beef, onions, spices","Shape beef into skewers, and grill."
+451,Meat Pie,"ground beef, onions, gravy, pie crust","Fill pie crust with beef, onions, and gravy, bake until golden."
+452,Pavlova,"egg whites, sugar, cream, fruit","Whisk egg whites and sugar, bake, and top with cream and fresh fruit."
+453,ANZAC Biscuits,"oats, coconut, golden syrup, butter","Mix oats, coconut, and syrup, bake into biscuits."
+454,Vegemite on Toast,"vegemite, bread, butter",Spread vegemite on buttered toast.
+455,Lamington,"sponge cake, chocolate, desiccated coconut",Coat sponge cake squares in chocolate and coconut.
+456,Meat and Three Veg,"beef, potatoes, peas, carrots","Serve cooked beef with mashed potatoes, peas, and carrots."
+457,Barbecued Snags,"sausages, onions, bread, tomato sauce","Grill sausages, serve with sautéed onions and bread."
+458,Chiko Roll,"chicken, vegetables, batter",Fry battered roll filled with chicken and vegetables.
+459,Seafood Chowder,"seafood, potatoes, cream, garlic","Simmer seafood and potatoes in cream, season with garlic."
+460,Chicken Parmigiana,"chicken, tomato sauce, cheese, breadcrumbs",Bake breaded chicken topped with tomato sauce and cheese.
+461,Billy Tea,"black tea, sugar, milk","Boil tea, add sugar and milk to taste."
+462,Wattle Seed Damper,"wheat flour, butter, wattle seeds, milk","Prepare dough, shape into a loaf, and bake."
+463,Pumpkin Soup,"pumpkin, onions, garlic, cream","Simmer pumpkin and onions, blend with cream."
+464,BBQ Ribs,"pork ribs, barbecue sauce, spices",Grill pork ribs with barbecue sauce and spices.
+465,Steak and Kidney Pie,"steak, kidney, onions, gravy","Fill pie crust with steak, kidney, and gravy, bake."
+466,Sticky Date Pudding,"dates, sugar, flour, cream",Bake date pudding and serve with warm toffee sauce.
+467,Kingfish Steaks,"kingfish, garlic, lemon, herbs","Grill kingfish with garlic, lemon, and fresh herbs."
+468,Corned Beef and Cabbage,"corned beef, cabbage, potatoes, mustard","Simmer corned beef and cabbage, serve with mustard."
+469,Barramundi Fillets,"barramundi, lemon, herbs, olive oil",Grill barramundi fillets with lemon and fresh herbs.
+470,Wagyu Beef Burger,"wagyu beef, burger buns, cheese, lettuce",Grill wagyu beef patty and assemble with cheese and lettuce.
+471,Tasmanian Salmon,"salmon, dill, lemon, olive oil",Grill or pan-sear salmon with dill and lemon.
+472,Avocado Smash,"avocado, toast, lemon, chili","Spread mashed avocado on toast, garnish with lemon and chili."
+473,Chili Mud Crab,"mud crab, chili, garlic, ginger","Stir-fry mud crab with chili, garlic, and ginger."
+474,Vegetable Souvlaki,"vegetables, pita bread, tzatziki, lettuce",Grill vegetables and serve in pita bread with tzatziki.
+475,Lamb Roast,"lamb, garlic, rosemary, potatoes","Season lamb with garlic and rosemary, roast with potatoes."
+476,Smoked Salmon Bagel,"salmon, bagel, cream cheese, capers","Top bagel with smoked salmon, cream cheese, and capers."
+477,Prawn Cocktail,"prawns, lettuce, cocktail sauce","Serve cooked prawns on lettuce, topped with cocktail sauce."
+478,BBQ Chicken Wings,"chicken wings, barbecue sauce, spices",Grill chicken wings coated in barbecue sauce and spices.
+479,Coconut Cream Pie,"coconut, sugar, eggs, cream","Make coconut filling, pour into pie crust, and bake."
+480,Beef Wellington,"beef, mushrooms, pastry, mustard","Cover beef with mushrooms, wrap in pastry, and bake."
+481,Aussie Hamburger,"ground beef, beetroot, cheese, lettuce","Assemble beef patty with beetroot, cheese, and lettuce in a bun."
+482,Sausage Roll,"sausages, puff pastry, onion, herbs",Wrap sausage meat in pastry and bake.
+483,Churros,"flour, sugar, cinnamon, chocolate","Shape dough into sticks, fry, and coat with cinnamon sugar."
+484,BBQ Kangaroo,"kangaroo, lemon, garlic, herbs","Grill kangaroo steaks with garlic, lemon, and herbs."
+485,Chocolate Pavlova,"egg whites, chocolate, cream, berries","Whisk egg whites, bake, and top with chocolate, cream, and berries."
+486,Spaghetti Bolognese,"beef, tomatoes, pasta, garlic","Simmer beef with tomatoes and garlic, serve over pasta."
+487,Patagonian Toothfish,"toothfish, lemon, herbs, olive oil",Grill toothfish with lemon and fresh herbs.
+488,Salmon Roe and Caviar,"salmon roe, caviar, blinis, cream",Serve salmon roe and caviar on blinis with cream.
+489,Fried Fish and Chips,"fish fillets, potatoes, batter, tartar sauce","Fry battered fish and chips, serve with tartar sauce."
+490,Turmeric Chicken Wings,"chicken wings, turmeric, yogurt, garlic","Marinate chicken wings in turmeric, yogurt, and garlic, then grill."
+491,Spinach and Ricotta Roll,"spinach, ricotta, puff pastry, egg","Stuff pastry with spinach and ricotta, and bake."
+492,Flat White,"espresso, steamed milk",Serve espresso with a layer of steamed milk.
+493,Macadamia Nut Pie,"macadamia nuts, sugar, eggs, pastry",Fill pastry shell with macadamia nuts and bake.
+494,Mushroom Risotto,"mushrooms, rice, stock, parmesan","Simmer rice with mushrooms and stock, finish with parmesan."
+495,Crispy Duck Pancakes,"duck, hoisin sauce, pancakes, cucumber","Crisp duck skin, serve with pancakes, hoisin sauce, and cucumber."
+496,Chickpea and Spinach Curry,"chickpeas, spinach, onions, curry spices",Simmer chickpeas and spinach with curry spices.
+497,Sweet Potato Fries,"sweet potatoes, olive oil, salt, pepper","Chop sweet potatoes, season, and bake until crispy."
+498,Coconut Macaroons,"coconut, sugar, egg whites",Bake coconut macaroons with sugar and egg whites.
+499,Shrimp Cocktail,"shrimp, cocktail sauce, lettuce",Serve shrimp with cocktail sauce and lettuce.
+500,Australian Lamb Chops,"lamb chops, rosemary, garlic, lemon","Grill lamb chops seasoned with rosemary, garlic, and lemon."
